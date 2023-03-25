@@ -1,1 +1,1 @@
-# Finding-Exoplanets-using-ML-techniques
+# Machine Learning Technique to Identify Transit Shaped Signals
